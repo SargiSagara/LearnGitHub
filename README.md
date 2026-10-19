@@ -1,1 +1,2 @@
-Nama : 'Sargi Sagara'
+Nama : Sargi Sagara
+Anomali
