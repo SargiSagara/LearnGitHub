@@ -1,0 +1,1 @@
+print("File utama Expert System berhasil jalan!")
