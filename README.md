@@ -1,2 +1,2 @@
-# LearnGitHub
-my github
+Nama : Sargi Sagara
+Anomali
